@@ -109,7 +109,7 @@ The Movie Recommendation System provides intelligent movie suggestions using **c
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/MinitChitroda/movie-recommendation-system.git
 cd movie-recommendation-system
 
 # 2. Create virtual environment
